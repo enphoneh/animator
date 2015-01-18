@@ -1,0 +1,92 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"  tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/g"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:src="@drawable/g"/>
+
+    <ImageView
+        android:id="@+id/b"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:src="@drawable/b"/>
+
+    <ImageView
+        android:id="@+id/c"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:src="@drawable/c"/>
+
+    <ImageView
+        android:id="@+id/d"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:src="@drawable/d"/>
+
+    <ImageView
+        android:id="@+id/e"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:src="@drawable/e"/>
+
+    <ImageView
+        android:id="@+id/f"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:src="@drawable/f"/>
+
+    <ImageView
+        android:id="@+id/a"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:src="@drawable/a"/>
+
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:id="@+id/o"
+        android:src="@drawable/b"
+        android:layout_gravity="left|bottom" />
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:id="@+id/p"
+        android:src="@drawable/c"
+        android:layout_gravity="left|bottom" />
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:id="@+id/q"
+        android:src="@drawable/d"
+        android:layout_gravity="left|bottom" />
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:id="@+id/r"
+        android:src="@drawable/e"
+        android:layout_gravity="left|bottom" />
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:id="@+id/s"
+        android:src="@drawable/f"
+        android:layout_gravity="left|bottom" />
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:id="@+id/t"
+        android:src="@drawable/g"
+        android:layout_gravity="left|bottom" />
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:id="@+id/u"
+        android:src="@drawable/a"
+        android:layout_gravity="left|bottom" />
+
+
+
+</FrameLayout>
